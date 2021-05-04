@@ -1,0 +1,20 @@
+CREATE TABLE `price_lists` (
+  `Price List` varchar(10) DEFAULT NULL,
+  `Created On` varchar(19) DEFAULT NULL,
+  `Modified On` varchar(19) DEFAULT NULL,
+  `Name` varchar(35) DEFAULT NULL,
+  `Status Reason` varchar(13) DEFAULT NULL
+) 
+
+
+INSERT INTO `price_lists` (`Price List`, `Created On`, `Modified On`, `Name`, `Status Reason`) VALUES
+('24000005', '2020-05-26 12:37:10', '2020-05-30 12:37:10', 'Differential Price Book - Business5', 'Active'),
+('24000006', '2020-05-02 12:38:19', '2020-05-02 12:38:19', 'Flat Price Book - Business6', 'Active'),
+('24000004', '2019-09-26 06:09:09', '2019-09-26 06:09:09', 'Flat Price Book - Business4', 'Not Active'),
+('24000003', '2019-08-19 10:22:10', '2019-08-19 10:22:10', 'Differential Price Book - Business3', 'Active'),
+('24000002', '2019-07-26 12:45:19', '2019-07-26 12:45:19', 'Flat Price Book - Business10', 'Active'),
+('24000001', '2019-07-06 12:37:11', '2019-07-06 12:37:11', 'Differential Price Book - Business2', 'Active'),
+('24000007', '2019-06-05 12:59:59', '2019-06-26 12:59:59', 'Differential Price Book - Business7', 'Not Active'),
+('24000008', '2019-06-05 12:37:11', '2019-07-04 12:37:11', 'Flat Price Book - Business8', 'Active'),
+('24000000', '2019-06-05 11:17:21', '2019-06-05 11:17:21', 'Flat Price Book - Business1', 'Active'),
+('24000009', '2019-06-05 01:37:01', '2019-06-05 01:37:01', 'Differential Price Book - Business9', 'Active');
