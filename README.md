@@ -49,7 +49,12 @@ Instructions for downloading the project:
 3.Start your XAMPP Control Panel and start 'Apache' and 'MySql' servers there.
 4.Open your browser and type 'localhost/' or '127.0.0.1/' , then from there go to phpmyadmin.
 5.Create a database named:'MICROSOFTCRM' in phpmyadmin.
-Import the sql file from the folder to the phpadmin
+6.Import the sql file from the folder to the phpadmin
 
 ![image](https://user-images.githubusercontent.com/72694919/117034532-07201080-ad21-11eb-9641-5053a6b2a15f.png)
 
+7.Congratulations! you are good to go for analysing data
+
+# Relational schema for the database
+
+![image](https://user-images.githubusercontent.com/72694919/117034952-6f6ef200-ad21-11eb-9833-74ed9054cf86.png)
