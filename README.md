@@ -35,7 +35,7 @@ In the database that you created, formulate and execute each of the following qu
 
 11. Write a query to left JOIN table orders and order product on order id. 
 
-run more queries from queries.sql file
+run more questions from question file
 
 DECLARATION : This project can be run on Xampp Server, don't worry if you don't have...click the link below to install Xampp server https://www.apachefriends.org/download.html
 
@@ -51,7 +51,8 @@ Instructions for downloading the project:
 5.Create a database named:'MICROSOFTCRM' in phpmyadmin.
 6.Import the sql file from the folder to the phpadmin
 
-![image](https://user-images.githubusercontent.com/72694919/117034532-07201080-ad21-11eb-9641-5053a6b2a15f.png)
+![image](https://user-images.githubusercontent.com/72694919/117183826-a31b4c00-adf5-11eb-9946-96e7e271eadd.png)
+
 
 7.Congratulations! you are good to go for analysing data
 
