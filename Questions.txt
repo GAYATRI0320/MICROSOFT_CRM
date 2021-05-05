@@ -1,0 +1,70 @@
+QUESTIONS:
+
+Q1. Display the list of cases with the same age.
+
+Q2. Find the no. Of accounts for each industry in the descending order.
+
+Q3. Find the 3rd maximum current cost in products table.
+
+Q4. Write a query to fetch 200 maximum Current cost from products table.
+
+Q5. Display the accounts name, industry, caseid to cases in every account.
+
+Q6. Display the owning user, account id, status reason, amount and quantity of products to every orders. 
+
+Q7. Select all records where full name of both sales_person_target and users table matches.
+
+Q8. Count the number of quote products in quote wise and also display the name. 
+
+Q9. Write a query to find the names of quotes which has highest total amount and also display the quote id.
+
+Q10. Write a query to fetch 100 minimum Total Amount from quotes table
+
+Q11. Write an SQL query to print the name of product having the highest total amount in each product type.
+
+Q12. Write an SQL query to fetch the last 20  records from accounts table using union. 
+
+Q13. Write an SQL query to show the row where industry is manufacturing twice in results.
+
+Q14. Write an SQL query to fetch the list of account name with the same industry and also display their account, owning user, website and business type. 
+
+Q15. Write a query to fetch the list of caseid, created_on, case_stage, age, age_tier who have their cases in industry manufacturing or pharma.
+
+Q16. Write a query to select all records for any total_amount less than $22.66K from orders table.
+
+Q17. Write a query to select all records for all current_cost less than INR 1,656.17 from products_1 table.
+
+Q18. Write a query Name, product, current cost, product type from products who has amount more than 500 from the table price list items.
+
+Q19. Select order id name of the top most 5 having highest total amount. 
+
+Q20. Select name, product having status reason active and product type either personal care or home maintenance who have top 12 products. 
+
+Q21. Write a query to select name and price list having status reason = active, name wise having price list greater than avg price list.
+
+Q22. Write a query to select price list, products from price list items and left join with name and created on from table product, join on product id. 
+
+Q23. Write a query to select opportunity, topic without having es in between and having total account amount more than 200.
+
+Q24. Write query to select name where product id of product is equal to product id of price list and status reason is active.
+
+Q25. Write a query to select lead, industry and avg of owning user by group in lead.
+
+Q26. Select caseid, origin and sum of age and group by case id. 
+
+Q27. Write a query to select topic probability and avg of opportunity with opportunity lead greater than 1500 in probability wise. 
+
+Q28. Write  a query to count the opportunities by account amount wise.
+
+Q29. Write a query to select all the records from accounts and contacts table.
+
+Q30. Write a query to left JOIN table orders and order product on order id. 
+
+Q31. Write a query to right join table orders and order product on order id.
+
+Q32. Write a query to select price list product product id and amount where amount is less than 1000. 
+
+Q33. Write a query to select order id, name, total amount and account id where total amount is equal to order id of 21003541.
+
+Q34. Write a query to select all records where user is equal to 1010. 
+
